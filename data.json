@@ -1,0 +1,195 @@
+{
+    "success": true,
+    "message": "Active groups retrieved successfully",
+    "data": [
+        {
+            "Id": "81c04f9e-668e-47f4-9818-9174eeafe3cc",
+            "Name": "2026 All Stars Class",
+            "Description": "The best of the best",
+            "Year": 2027,
+            "StartDate": "2027-05-01",
+            "MaxCapacity": 67,
+            "CurrentCount": 1
+        },
+        {
+            "Id": "92833dab-c6eb-41ac-bc8c-dbe6b35d58e3",
+            "Name": "2026 All Stars Class1",
+            "Description": "The best of the best",
+            "Year": 2027,
+            "StartDate": "2027-05-01",
+            "MaxCapacity": 67,
+            "CurrentCount": 17
+        },
+        {
+            "Id": "84e73141-6bac-478b-af93-ee03ad492e21",
+            "Name": "2027 All Stars Class",
+            "Description": "The best of the best",
+            "Year": 2027,
+            "StartDate": "2027-05-01",
+            "MaxCapacity": 67,
+            "CurrentCount": 2
+        },
+        {
+            "Id": "dd3aab00-3077-49a1-9568-000da0def9be",
+            "Name": "2027 Test199 Class",
+            "Description": "The best of the best",
+            "Year": 2027,
+            "StartDate": "2027-05-01",
+            "MaxCapacity": 67,
+            "CurrentCount": 1
+        },
+        {
+            "Id": "5328c91e-fc40-11f0-8e00-5000e6331276",
+            "Name": "1st Group 2026",
+            "Description": "First cohort of students for 2026",
+            "Year": 2026,
+            "StartDate": "2026-01-01",
+            "MaxCapacity": null,
+            "CurrentCount": 301
+        },
+        {
+            "Id": "c1ce77c4-bd1a-42ae-901f-fc3e534c55b8",
+            "Name": "2nd Group 2026",
+            "Description": "string",
+            "Year": 2026,
+            "StartDate": "2026-01-29",
+            "MaxCapacity": null,
+            "CurrentCount": 182
+        },
+        {
+            "Id": "56f089fa-42c9-4210-95f8-75752f8592ae",
+            "Name": "Automation Group",
+            "Description": "This is for Ndosi BDD Assessment 2026",
+            "Year": 2026,
+            "StartDate": "2026-01-01",
+            "MaxCapacity": 30,
+            "CurrentCount": 1
+        },
+        {
+            "Id": "e897bc41-bdeb-4962-84f1-8212b1e7ce10",
+            "Name": "BDD Test Group",
+            "Description": "BDD Test Pipeline",
+            "Year": 2026,
+            "StartDate": "2026-01-01",
+            "MaxCapacity": 120,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "f6e5e96b-2213-4d37-8fed-7acbfbf7b094",
+            "Name": "BDD1 Test Group",
+            "Description": "BDD Test Pipeline",
+            "Year": 2026,
+            "StartDate": "2026-01-01",
+            "MaxCapacity": 120,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "d9c93e07-1360-45c2-8f06-bd4472ff4752",
+            "Name": "BDD2 Test Group",
+            "Description": "BDD Test Pipeline",
+            "Year": 2026,
+            "StartDate": "2026-01-01",
+            "MaxCapacity": 120,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "a0a1a4da-2043-4bd1-8d3b-010a8cc170d5",
+            "Name": "BDD3 Test Group",
+            "Description": "BDD Test Pipeline",
+            "Year": 2026,
+            "StartDate": "2026-01-01",
+            "MaxCapacity": 120,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "d89d87df-216a-44dd-8304-d87459c5cba3",
+            "Name": "BDD4 Test Group",
+            "Description": "BDD Test Pipeline",
+            "Year": 2026,
+            "StartDate": "2026-01-01",
+            "MaxCapacity": 120,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "192245b9-48b5-44c0-a626-292a388084a2",
+            "Name": "BreTest3",
+            "Description": "i&#039;m struggling",
+            "Year": 2026,
+            "StartDate": "2020-04-25",
+            "MaxCapacity": 1,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "4cde4e9d-c18f-4dfe-b556-99cd8e8146c1",
+            "Name": "group 5 assignment",
+            "Description": "group 5 assignment",
+            "Year": 2026,
+            "StartDate": "2026-03-03",
+            "MaxCapacity": 1000,
+            "CurrentCount": 60
+        },
+        {
+            "Id": "1deae17a-c67a-4bb0-bdeb-df0fc9e2e526",
+            "Name": "Group A",
+            "Description": "Mexico, South Africa, South Korea, TBD",
+            "Year": 2026,
+            "StartDate": "2026-03-24",
+            "MaxCapacity": 10000,
+            "CurrentCount": 137
+        },
+        {
+            "Id": "b0664443-c8a4-4a36-a87c-6ac33c6058bc",
+            "Name": "Group T",
+            "Description": "string",
+            "Year": 2026,
+            "StartDate": "2026-01-29",
+            "MaxCapacity": null,
+            "CurrentCount": 11
+        },
+        {
+            "Id": "3203b7cf-a450-4d5a-b26b-3f2451623118",
+            "Name": "ndosi",
+            "Description": "ndosi tezting",
+            "Year": 2026,
+            "StartDate": "2026-03-12",
+            "MaxCapacity": 155,
+            "CurrentCount": 27
+        },
+        {
+            "Id": "e07f20cf-cd6c-422d-92b1-55c15bef439f",
+            "Name": "Nkosi tests",
+            "Description": "",
+            "Year": 2026,
+            "StartDate": "2026-01-31",
+            "MaxCapacity": null,
+            "CurrentCount": 103
+        },
+        {
+            "Id": "7a04ca08-2ba7-471a-823e-dc3b345aa48d",
+            "Name": "The Magic group 25",
+            "Description": "The Magic Group 25",
+            "Year": 2026,
+            "StartDate": "2026-05-26",
+            "MaxCapacity": 1150,
+            "CurrentCount": 0
+        },
+        {
+            "Id": "657de153-7ad3-492c-8715-91f8adc15884",
+            "Name": "course assignment",
+            "Description": "Course assignment for Group 4 and 5",
+            "Year": 2025,
+            "StartDate": "2026-03-09",
+            "MaxCapacity": 10000,
+            "CurrentCount": 4
+        },
+        {
+            "Id": "20415043-d918-49e1-8319-4f1a755e644b",
+            "Name": "Dummy",
+            "Description": "dfgh",
+            "Year": 2025,
+            "StartDate": "2026-05-20",
+            "MaxCapacity": 12,
+            "CurrentCount": 1
+        }
+    ]
+}
